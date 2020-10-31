@@ -18,7 +18,7 @@ Skills: HTML/CSS/Python/Jekyll/Adobe XD
 
 ![Profile views](https://gpvc.arturio.dev/T-taku)  
 
-![T-taku's github stats](https://github-readme-stats.vercel.app/api?username=T-taku&show_icons=true&theme=merko)
+![T-taku's github stats](https://github-readme-stats.vercel.app/api?username=T-taku&show_icons=true&theme=merko&layout=compact)
 
 
 ### Skills
