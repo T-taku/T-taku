@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is T-taku.
 #### こんにちは、T-takuです。你好，我是T-taku。
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=T-taku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=T-taku&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 I love CSS and Python!
 
