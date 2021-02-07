@@ -5,7 +5,7 @@
 
 I love CSS and Python!
 
-🔭 I’m currently working on [project Little Lindo](https://littlelindo.jp), Japanese Scratch-Wiki and Discord bots(Yudzuki and TakuTukirou).
+🔭 I’m currently working on [project Little Lindo](https://littlelindo.jp), Japanese Scratch-Wiki and Discord bot(TakuTukirou).
 
 🌱 I’m currently learning JavaScript,English,Chinese,Material-UI...
 
