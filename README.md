@@ -9,7 +9,7 @@ I love CSS and Python!
 
 🌱 I’m currently learning JavaScript,English,Chinese,Material-UI...
 
-👯 I’m looking to collaborate on Scratch Wiki,TakuTukirou. 
+👥 I’m looking to collaborate on Scratch Wiki,TakuTukirou. 
 
 📫 How to reach me: Twitter,Mail(info@t-taku.jp)... 
 
